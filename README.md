@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/christopher-begnini-05a07a165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+![snake_gif](https://github.com/ChristopherBRamos/ChristopherBRamos/blob/ouput/github-contribution-grid-snake.svg)
 
 
